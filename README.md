@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Go, C++<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently learning: AWS and cloud infrastructure and development<br>💬 Ask me about: Any mobile app development/ backend development<br>⚡ Fun fact: I play Rainbow Six Siege!
+🔭 I’m currently learning Go, C++<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently learning: AWS and cloud infrastructure and development<br>💬 Ask me about: Any mobile app development/ backend development<br>⚡ Fun fact: I play Rainbow Six Siege!
 
 
 ## 🌐 Socials:
