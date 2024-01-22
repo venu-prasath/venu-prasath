@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently learning to build backend systems with Go<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently preparing for AWS Solutions Architect certification<br>💬 Ask me about: Any mobile app development/ backend development<br>⚡ Fun fact: I play Rainbow Six Siege!
 
-
----
-[![](https://visitcount.itsvg.in/api?id=venu-prasath&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ghost9071) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venu-prasath-m) 
