@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning to build backend systems with Go<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently reading: Designing Data Intensive Applications<br>💬 Ask me about: Any backend development / Android / React<br>⚡ Fun fact: I play Rainbow Six Siege!
+🔭 I’m currently learning Rust to build my own compiler<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently reading: Designing Data Intensive Applications<br>💬 Ask me about: Any backend development / Android / React<br>⚡ Fun fact: I play Rainbow Six Siege!
 
 ---
 ## 🌐 Socials:
