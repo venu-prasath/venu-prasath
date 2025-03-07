@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building a compiler from scratch with C<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently reading: Crafting Interpreters<br>💬 Ask me about: Any Full Stack development<br>
+🔭 I’m currently building a compiler from scratch with C to fill my knowledge gaps from college<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently reading: Building an LLM from Scratch<br>💬 Ask me about: Any Full Stack development<br>
 
 ---
 ## 🌐 Socials:
